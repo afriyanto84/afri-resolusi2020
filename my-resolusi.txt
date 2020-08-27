@@ -1,3 +1,5 @@
 Resolusi Saya
 - Konsisten belajar web programming
 - Mulai membuat web / portal sederhana
+- Mempelajari struktur / framework bahasa pemrograman
+- Menambah client
